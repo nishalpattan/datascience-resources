@@ -14,3 +14,5 @@ Collection of handy and useful articles from internet
 [nlp progress](https://nlpprogress.com/)
 
 [setting up anacondda, jupyter notebooks on aws instance](https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297)
+
+[pytorch tutorial](https://github.com/nishalpattan/pytorch-tutorial)
