@@ -17,4 +17,4 @@ Collection of handy and useful articles from internet
 
 [pytorch tutorial](https://github.com/nishalpattan/pytorch-tutorial)
 
-[install python3 in fedor](https://www.unixmen.com/howto-install-python-3-x-in-ubuntu-debian-fedora-centos/)
+[install python3 in fedora](https://www.unixmen.com/howto-install-python-3-x-in-ubuntu-debian-fedora-centos/)
