@@ -10,3 +10,5 @@ Collection of handy and useful articles from internet
 [fast ai course notes by hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197)
 
 [fasat ai course notes by Ashish kumar panda](https://towardsdatascience.com/@GeneAshis)
+
+[nlp progress](https://nlpprogress.com/)
