@@ -12,3 +12,5 @@ Collection of handy and useful articles from internet
 [fasat ai course notes by Ashish kumar panda](https://towardsdatascience.com/@GeneAshis)
 
 [nlp progress](https://nlpprogress.com/)
+
+[setting up anacondda, jupyter notebooks on aws instance](https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297)
