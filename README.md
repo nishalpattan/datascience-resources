@@ -16,3 +16,5 @@ Collection of handy and useful articles from internet
 [setting up anacondda, jupyter notebooks on aws instance](https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297)
 
 [pytorch tutorial](https://github.com/nishalpattan/pytorch-tutorial)
+
+[install python3 in fedor](https://www.unixmen.com/howto-install-python-3-x-in-ubuntu-debian-fedora-centos/)
