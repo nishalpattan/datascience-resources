@@ -22,3 +22,5 @@ Collection of handy and useful articles from internet
 [split data to train, valid in pytorch](https://gist.github.com/Fuchai/12f2321e6c8fa53058f5eb23aeddb6ab)
 
 [using torchtext to load data, creating batches of data](http://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/)
+
+[keras BILSTM model](https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout/notebook)
