@@ -18,3 +18,5 @@ Collection of handy and useful articles from internet
 [pytorch tutorial](https://github.com/nishalpattan/pytorch-tutorial)
 
 [install python3 in fedora](https://www.unixmen.com/howto-install-python-3-x-in-ubuntu-debian-fedora-centos/)
+
+[split data to train, valid in pytorch](https://gist.github.com/Fuchai/12f2321e6c8fa53058f5eb23aeddb6ab)
