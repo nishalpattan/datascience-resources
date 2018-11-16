@@ -23,4 +23,8 @@ Collection of handy and useful articles from internet
 
 [using torchtext to load data, creating batches of data](http://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/)
 
-[keras BILSTM model](https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout/notebook)
+[Keras BILSTM model by jeremy howard](https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout/notebook)
+
+[Stratified K-fold cross validation technique in Keras](https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/)
+
+[Using Word Embedding layer in Keras](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/)
