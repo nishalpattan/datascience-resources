@@ -30,4 +30,6 @@ Collection of handy and useful articles from internet
 [Using Word Embedding layer in Keras](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/)
 
 [Extract Data from pdf using PyPDF2](https://medium.com/@rqaiserr/how-to-convert-pdfs-into-searchable-key-words-with-python-85aab86c544f)
+
+[pdfMiner.six to extract data from PDF files, PdfMiner supports Python2, PdfMiner.Six supports Python2+3](https://github.com/pdfminer/pdfminer.six)
  
