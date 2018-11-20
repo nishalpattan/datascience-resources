@@ -28,3 +28,6 @@ Collection of handy and useful articles from internet
 [Stratified K-fold cross validation technique in Keras](https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/)
 
 [Using Word Embedding layer in Keras](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/)
+
+[Extract Data from pdf using PyPDF2](https://medium.com/@rqaiserr/how-to-convert-pdfs-into-searchable-key-words-with-python-85aab86c544f)
+ 
