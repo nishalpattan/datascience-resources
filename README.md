@@ -33,5 +33,7 @@ Collection of handy and useful articles from internet
 
 [pdfMiner.six to extract data from PDF files, PdfMiner supports Python2, PdfMiner.Six supports Python2+3](https://github.com/pdfminer/pdfminer.six)
 
+[LDA Topic Modelling](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
+
 [extraction of keywords using Tf-IDF](http://kavita-ganesan.com/extracting-keywords-from-text-tfidf/#.W_Wm_uhKhPY)
  
