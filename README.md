@@ -36,4 +36,6 @@ Collection of handy and useful articles from internet
 [LDA Topic Modelling](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
 
 [extraction of keywords using Tf-IDF](http://kavita-ganesan.com/extracting-keywords-from-text-tfidf/#.W_Wm_uhKhPY)
+
+[Implementing Precision & recall,customized metrics in keras using Tensorflow metrics](https://stackoverflow.com/questions/43076609/how-to-calculate-precision-and-recall-in-keras)
  
