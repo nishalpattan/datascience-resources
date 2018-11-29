@@ -39,3 +39,4 @@ Collection of handy and useful articles from internet
 
 [Implementing Precision & recall,customized metrics in keras using Tensorflow metrics](https://stackoverflow.com/questions/43076609/how-to-calculate-precision-and-recall-in-keras)
  
+ [loading glove vectors in gensim](https://becominghuman.ai/word-embeddings-with-gensim-68e6322afdca)
